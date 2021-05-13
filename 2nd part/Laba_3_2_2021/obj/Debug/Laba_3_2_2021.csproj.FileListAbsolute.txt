@@ -1,0 +1,40 @@
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.exe.config
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.exe
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.pdb
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csprojAssemblyReference.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.Form1.resources
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.Properties.Resources.resources
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csproj.GenerateResource.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csproj.CoreCompileInputs.cache
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.exe
+D:\Нова папка (2)\Desktop\ООП_ЛАБИ\ООП\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.pdb
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.exe.config
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.exe
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.pdb
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.Form1.resources
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.Properties.Resources.resources
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csproj.GenerateResource.cache
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.exe
+E:\University\ООП\2 семестр\3 laba\Laba_3_2_2021\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.pdb
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.exe.config
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.exe
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.pdb
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.Form1.resources
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.Properties.Resources.resources
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csproj.GenerateResource.cache
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.exe
+E:\University\ООП\2 семестр\3 laba\ЛАБА робоча\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.pdb
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.exe.config
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.exe
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\bin\Debug\Laba_3_2_2021.pdb
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.Form1.resources
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.Properties.Resources.resources
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csproj.GenerateResource.cache
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.exe
+E:\University\ООП\2 семестр\3 laba\2nd part\Laba_3_2_2021\obj\Debug\Laba_3_2_2021.pdb
